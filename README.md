@@ -1,4 +1,4 @@
-# AgriGov AI
+# AgriGv AI
 
 > **Intelligent AI-powered administration platform for agriculture department offices.**
 
