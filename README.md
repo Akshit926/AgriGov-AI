@@ -2,7 +2,6 @@
 
 > **Intelligent AI-powered administration platform for agriculture department offices.**
 
-AgriGov AI automates agriculture office operations using AI/ML — reducing manual work, delays, fraud, and inefficiency across document verification, fraud detection, field verification, grievance management, and scheme planning.
 
 ---
 
